@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <img src="./fig/metric_matrix.pdf" width="45%" />
-  <img src="./fig/2d_metric_matrix.pdf" width="45%" />
+  <img src="./fig/metric_matrix.png" width="45%" />
+  <img src="./fig/2d_metric_matrix.png" width="45%" />
 </div>
 
 
