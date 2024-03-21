@@ -32,8 +32,8 @@ https://drive.google.com/drive/folders/1ucxT1p8eMwo8teTUtf3_0WQRK-xwH75-?usp=sha
 
 The test video sequences are derived from the [8i Voxelized Full Bodies (8iVFB v2) Point Cloud Dataset](http://plenodb.jpeg.org/pc/8ilabs/) and [Owlii Dynamic Human Textured Mesh Sequence Dataset](https://mpeg-pcc.org/index.php/pcc-content-database/owlii-dynamic-human-textured-mesh-sequence-dataset/).
 
-> Eugene d'Eon, Bob Harrison, Taos Myers, and Philip A. Chou, "8i Voxelized Full Bodies - A Voxelized Point Cloud Dataset," ISO/IEC JTC1/SC29 Joint WG11/WG1 (MPEG/JPEG) input document WG11M40059/WG1M74006, Geneva, January 2017.
-> Yi Xu, Yao Lu, and Ziyu Wen, “Owlii Dynamic human mesh sequence dataset” ISO/IEC JTC1/SC29/WG11 m41658, 120th MPEG Meeting, Macau, October 2017.
+> - Eugene d'Eon, Bob Harrison, Taos Myers, and Philip A. Chou, "8i Voxelized Full Bodies - A Voxelized Point Cloud Dataset," ISO/IEC JTC1/SC29 Joint WG11/WG1 (MPEG/JPEG) input document WG11M40059/WG1M74006, Geneva, January 2017.
+> - Yi Xu, Yao Lu, and Ziyu Wen, “Owlii Dynamic human mesh sequence dataset” ISO/IEC JTC1/SC29/WG11 m41658, 120th MPEG Meeting, Macau, October 2017.
 
 
 
