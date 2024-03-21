@@ -44,7 +44,7 @@ If you use this publicly available dataset, please cite our paper in your public
 ```
 @InProceedings{
     title = "Quality Assessment and Modeling for MPEG V-PCC Volumetric Video",
-    author = "Yuang Shi and Samuel Rhys Cox and May Lim and Wei Tsang Ooi",
+    author = "Yuang Shi and Samuel Rhys Cox and Wei Tsang Ooi",
     booktitle = "Proceedings of the 16th International Workshop on Immersive Mixed and Virtual Environment Systems (MMVE)",
     year = 2024,
     month = April,
